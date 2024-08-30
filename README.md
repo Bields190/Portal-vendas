@@ -1,4 +1,4 @@
 # Portal-vendas
 Utilizado para Práticas no WebAcademy
 
-suposta atualização.:.
+suposta atualização.:. com adições aqui
